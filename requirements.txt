@@ -1,0 +1,3 @@
+jedi
+litellm
+smolagents
